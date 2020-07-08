@@ -1,10 +1,10 @@
 # Requirements
   
-  Python2.7
+  Python3.6
 
   Caffe
 
-  Pytorch >= 0.40
+  Pytorch = 1.5
 # Add Caffe Layers
 1. Copy `caffe_layers/mish_layer/mish_layer.hpp,caffe_layers/upsample_layer/upsample_layer.hpp` into `include/caffe/layers/`.
 2. Copy `caffe_layers/mish_layer/mish_layer.cpp mish_layer.cu,caffe_layers/upsample_layer/upsample_layer.cpp upsample_layer.cu` into `src/caffe/layers/`.

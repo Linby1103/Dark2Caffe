@@ -4,6 +4,7 @@
     <list default="true" id="5c4ebc34-67fd-458a-9e45-6a5ff9371257" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prototxt.py" beforeDir="false" afterPath="$PROJECT_DIR$/prototxt.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
